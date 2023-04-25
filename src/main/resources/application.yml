@@ -1,0 +1,9 @@
+spring:
+  thymeleaf:
+    mode: HTML
+  profiles:
+    active: dev
+#  main:
+#    allow-circular-references: true
+comment:
+  avatar: /images/avatar.png
